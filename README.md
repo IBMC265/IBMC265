@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+![](https://github-readme-stats.vercel.app/api?username=IBMC265&theme=buefy&hide_border=false)
+
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=IBMC265&theme=minimal" /> </div> 
+
 <!--
 **IBMC265/IBMC265** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
